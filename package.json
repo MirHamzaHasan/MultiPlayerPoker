@@ -6,7 +6,7 @@
     "start": "node testserver.js"
   },
   "dependencies": {
-    "socket.io": "0.9"
+ 
   },
   "engines": {
     "node": "1.x",
