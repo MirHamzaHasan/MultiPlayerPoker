@@ -1,0 +1,15 @@
+{
+  "name": "multiplayerpoker",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node testserver.js"
+  },
+  "dependencies": {
+    "socket.io": "0.9"
+  },
+  "engines": {
+    "node": "0.9.x",
+    "npm": "1.2.x"
+  }
+}
