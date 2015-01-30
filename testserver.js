@@ -13,4 +13,4 @@ io.sockets.on('connection', function(socket){
   });
   io.sockets.emit('hello', { value: "welcome" });
 });
-server.listen(8080);
+server.listen(process.env.PORT);
